@@ -1,1 +1,2 @@
-# we have moved the repository to brian-team/brian2cuda
+# we have moved the repository
+new location: brian-team/brian2cuda
